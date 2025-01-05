@@ -1,3 +1,4 @@
+//////Q1//////////////
 function Car(brand, model, year) {
     this.brand = brand;
     this.model = model;
